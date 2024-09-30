@@ -2,7 +2,7 @@ from typing import Final
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes 
 
-TOKEN: Final = '6820986386:AAHAg1STD4I8uE-9FPaQj0tGKq5UVPj8Pww'
+TOKEN: Final = YOUR_TOKEN_HERE
 BOT_USERNAME: Final = '@carratebot'
 
 #COMMANDS
