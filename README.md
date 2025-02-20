@@ -32,7 +32,7 @@ To run the bot locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/carrate-master-bot.git
+   git clone https://github.com/Dev-2335/Carratebot-Telegrame_Bot.git
    ```
 
 2. Navigate to the project directory:
